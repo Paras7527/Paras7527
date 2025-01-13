@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Paras7527
 - 🌱 I’m currently learning java ☕️
 - 📨 Connect with me - paraskulkarni123@gmail.com
-- 🌝 Bento: https://x.com/Paraskulkarni0#:~:text=bento.me/paras%2Dkulkarni
+- 🌝 Bento: https://bento.me/paras-kulkarni
 - 👻 Break. Fix. Learn. Grow.
  
 <!---
