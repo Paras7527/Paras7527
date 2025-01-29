@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Paras7527
-- 🌱 I’m currently learning java ☕️
+- 🌱 I’m currently learning React-Native 💻
 - 📨 Connect with me - paraskulkarni123@gmail.com
 - 🌝 Bento: https://bento.me/paras-kulkarni
 - 👻 Break. Fix. Learn. Grow.
